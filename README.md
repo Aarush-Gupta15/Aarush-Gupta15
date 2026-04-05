@@ -38,7 +38,7 @@
 
 ## 🚀 What I'm Working On  
 
-- 🔧 Building **CI/CD pipelines** using Jenkins & GitHub Actions  
+- 🔧 Building **CI/CD pipelines** using GitHub Actions  
 - ☁️ Deploying applications on **AWS (EC2, S3, VPC)**  
 - 🏗️ Creating **infrastructure using Terraform**  
 - 🐳 Learning containerization with Docker & orchestration with Kubernetes  
